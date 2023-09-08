@@ -1,0 +1,13 @@
+# Blender MTL File: 'mANpg.blend'
+# Material Count: 1
+
+newmtl Glass_-_Tinted.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017381 0.015574 0.014494
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.118110
+illum 9
+map_Kd glass_coloe.png
